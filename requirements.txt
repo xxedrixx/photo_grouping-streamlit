@@ -1,6 +1,3 @@
-CMake
-pip
-dlib
 face_recognition @ git+https://github.com/xxedrixx/face_recognition
 numpy
 opencv-python-headless>=4.5.3
